@@ -18,22 +18,10 @@ This is my **working/development account** where I actively build and experiment
 
 Think of this as my workshop 🔧 and the other as my portfolio gallery 🎨.
 
----
-
-## 💼 Current Role
-
-**Solutions Developer at GotBot** (Conversational AI)  
-Building intelligent conversational systems and AI-powered solutions.
-
----
-
 ## 🚀 What I'm Working On
 
 This account contains my active development projects, experiments, and learning repositories. Here's what you'll find:
 
-### 🏙️ Municipal Services
-- **MunicipalServicesApp** - C# civic engagement platform for citizen service reporting
-- **Portal APP** - Contributing to IIE WFL Portal application
 
 ### 🤖 AI & Machine Learning
 - **Churn Prediction Project** - Banking customer churn ML model (Python, scikit-learn)
@@ -44,8 +32,6 @@ This account contains my active development projects, experiments, and learning 
 - **Share-Git** - Kotlin-based Git repository sharing application
 - Android development projects with CameraX and Firebase
 
-### 🎓 Academic & Learning Projects
-Various university projects and experimental code from my time at IIE Varsity College
 
 ---
 
