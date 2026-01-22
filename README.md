@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nyiko Shabangu
 
-### Full-Stack Engineer | AI Developer | AWS Cloud Certified
+### Full-Stack Engineer | AI Developer 
 
 <div align="center">
 
