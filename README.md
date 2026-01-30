@@ -29,7 +29,6 @@ This account contains my active development projects, experiments, and learning 
 - Neural network experiments and AI implementations
 
 ### 📱 Mobile Development
-- **Share-Git** - Kotlin-based Git repository sharing application
 - Android development projects with CameraX and Firebase
 
 
